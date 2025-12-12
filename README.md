@@ -1,6 +1,8 @@
 
 # Nkem | Python Developer, Scrum Master, Business Analyst & Product Owner
 
+![GitHub contribution statistics](https://github-readme-stats.vercel.app/api?username=nkemjp2&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+
 I design and ship B2B SaaS products for SMEs and public-sector teams, working end-to-end as:
 
 - Scaled Agile Scrum Master  
@@ -29,6 +31,8 @@ Domains I work in:
 ---
 
 ## Current stack & tools
+
+![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkemjp2&layout=compact&theme=default&hide_border=true)
 
 - **Languages & Dev:** Python, JavaScript/TypeScript, Git, GitHub, VS Code, Codespaces  
 - **Cloud & Data:** Supabase, PostgreSQL, modern cloud hosting  
